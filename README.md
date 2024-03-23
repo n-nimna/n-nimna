@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-nimna&label=Profile%20views&color=0e75b6&style=flat" alt="n-nimna" /> </p>
 
 - ⚡ Fun fact **Call me as Nimna**
+- 📧 How to reach me **nimeshid24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
