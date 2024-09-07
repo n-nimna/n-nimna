@@ -5,7 +5,7 @@
 <p align="center">I am a dedicated undergraduate student with a passion for UX/UI design🎨 and web development. My focus is on blending creativity with functionality to build seamless and engaging user interfaces💫. With a strong attention to detail and a commitment to user-centered design, I have completed various design projects and personal coding endeavors. Continuously learning and adapting to the evolving digital landscape, I strive to create innovative, user-friendly solutions that improve the overall user experience.!</p><br/><br><br>
 
   <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/><br>
+![](https://github-readme-stats.vercel.app/api?username=n-nimna&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/><br>
 
 - 📫 How to reach me **nimeshid724@gmail.com**
 
