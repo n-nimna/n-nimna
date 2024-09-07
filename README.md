@@ -4,17 +4,20 @@
 <h3 align="center">I'm a software engineering student in Sri Lanka passionate about UI/UX design and innovative web development.</h3><br>
 <p align="center">I am a dedicated undergraduate student with a passion for UX/UI design🎨 and web development. My focus is on blending creativity with functionality to build seamless and engaging user interfaces💫. With a strong attention to detail and a commitment to user-centered design, I have completed various design projects and personal coding endeavors. Continuously learning and adapting to the evolving digital landscape, I strive to create innovative, user-friendly solutions that improve the overall user experience.!</p><br/><br><br>
 
-  <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=n-nimna&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/><br>
-
 - 📫 How to reach me **nimeshid724@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[https://twitter.com/senuki_perera](https://twitter.com/nimeshinimnadi?t=40xZzUlEQ67Rbi3UR0Aw6A&s=08)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 
+<a href="https://www.linkedin.com/in/nimeshi-dilshara-b2508a255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+
+<a href="https://www.hackerrank.com/profile/ndnbandusiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="senukimanthini21" height="30" width="40" /></a>
 
 </p>
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=n-nimna&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/><br>
 
 
   
