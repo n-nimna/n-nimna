@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/senuki_perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="senuki_perera" height="30" width="40" /></a>
+<a href="https://twitter.com/nimeshinimnadi?t=40xZzUlEQ67Rbi3UR0Aw6A&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nimeshi_dilshara" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/senukiperera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senuki perera" height="30" width="40" /></a>
 <a href="https://dribbble.com/senuki_perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="senuki perera" height="30" width="40" /></a>
 <a href="https://www.behance.net/senukiperera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="senuki perera" height="30" width="40" /></a>
