@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://twitter.com/nimeshinimnadi?t=40xZzUlEQ67Rbi3UR0Aw6A&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nimeshi_dilshara" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nimeshi-dilshara-b2508a255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimeshi_dilshara" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/senukimanthini21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="senukimanthini21" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/ndnbandusiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nimeshi_dilshara" height="30" width="40" /></a>
 </p>
 
 
