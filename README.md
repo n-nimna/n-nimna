@@ -8,13 +8,10 @@
 
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nimeshinimnadi?t=40xZzUlEQ67Rbi3UR0Aw6A&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nimeshi_dilshara" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nimeshi-dilshara-b2508a255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimeshi_dilshara" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/ndnbandusiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nimeshi_dilshara" height="30" width="40" /></a>
-</p><br><br>
-
+<br>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+</p>
 <div align="center">  
 <a href="https://twitter.com/nimeshinimnadi?t=40xZzUlEQ67Rbi3UR0Aw6A&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nimeshi_dilshara" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nimeshi-dilshara-b2508a255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimeshi_dilshara" height="30" width="40" /></a>
