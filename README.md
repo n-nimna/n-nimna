@@ -21,5 +21,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-nimna&label=Profile%20views&color=0e75b6&style=flat" alt="n-nimna" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n-nimna" alt="n-nimna" /></a> </p>
-
+<div align="center">
+  <p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><br><img src="https://github-profile-trophy.vercel.app/?username=ruchiraedirisinghe&theme=tokyonight&margin-h=15&margin-w=5&no-bg=true" alt="ruchiraedirisinghe" /></a> </p>
+</div>
