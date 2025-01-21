@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nimeshi Dilshara!
 <h3 align="center">Software Engineering Student in Sri Lanka passionate about UI/UX design and innovative Web Development.</h3><br>
-<p align="center">I am a dedicated undergraduate student with a passion for UX/UI design🎨 and web development. My focus is on blending creativity with functionality to build seamless and engaging user interfaces💫. With a strong attention to detail and a commitment to user-centered design, I have completed various design projects and personal coding endeavors. Continuously learning and adapting to the evolving digital landscape, I strive to create innovative, user-friendly solutions that improve the overall user experience.!</p><br/>
+<p align="center">🎓 I’m a passionate BSc (Hons) Software Engineering undergraduate specializing in UI/UX designing and web development. I focus on creating intuitive, user-centered, and visually appealing digital experiences. With skills in modern tools and design principles, I craft responsive, accessible solutions that enhance usability and deliver exceptional value. I have a strong foundation in front-end and back-end technologies, continuously honing my skills to build scalable and efficient applications. Let’s create something amazing together and make a lasting impact in the digital world! ✨</p><br/>
 
 - 📫 How to reach me **nimeshid724@gmail.com**
 
